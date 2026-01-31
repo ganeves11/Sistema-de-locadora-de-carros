@@ -46,7 +46,7 @@ Este projeto faz parte do meu processo de aprendizado em **Tecnologia da Informa
 2. Clone este repositório:
 
    ```bash
-   git clone https://github.com/SEU_USUARIO/sistema-locadora-php.git
+   git clone https://github.com/ganeves11/sistema-locadora-php.git
    ```
 3. Copie a pasta do projeto para:
 
