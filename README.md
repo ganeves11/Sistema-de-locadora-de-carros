@@ -84,7 +84,7 @@ Este projeto tem como objetivo:
 Estudante de Ciência da Computação
 Em busca do primeiro estágio na área de TI
 
-🔗 LinkedIn: https://www.linkedin.com/in/gabriel-neves-578620296/
+🔗 LinkedIn: www.linkedin.com/in/gabriel-neves-d3v
 🔗 GitHub: https://github.com/ganeves11
 
 ---
